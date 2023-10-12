@@ -7,3 +7,5 @@ nltk
 wandb
 python-dotenv
 torchsummary
+coremltools
+huggingface_hub
