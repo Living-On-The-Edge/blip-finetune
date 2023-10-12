@@ -1,0 +1,9 @@
+transformers
+datasets
+ipykernel
+tqdm
+datasets
+nltk
+wandb
+python-dotenv
+torchsummary
