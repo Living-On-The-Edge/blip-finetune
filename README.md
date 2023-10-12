@@ -20,3 +20,4 @@ pip install -r requirements.txt
 cp .env.example .env
 ```
 
+4. Run the `blip_finetune.ipynb` notebook to finetune the model. The notebook will automatically log the results to wandb. You can also run the notebook on Google Colab.
